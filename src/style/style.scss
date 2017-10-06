@@ -1,0 +1,31 @@
+#wrapper {
+  width: 500px;
+  height: 600px;
+  margin: 10px auto;
+  padding: 100px;
+  border: 2px solid #424242;
+  background: #c7c7c7;
+
+  .invisible {
+    display: none;
+  }
+
+  .logo {
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+
+  .menu_buttons {
+    .btn {
+      display: block;
+      margin: 10px auto;
+      width: 150px;
+      padding: 15px;
+      background: #9c9c9c;
+      color: #fff;
+      box-shadow: 0 3px 10px #d6d6d6;
+    }
+  }
+}
