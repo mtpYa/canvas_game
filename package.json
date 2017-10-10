@@ -1,7 +1,7 @@
 {
   "name": "canvas_game",
   "version": "1.0.0",
-  "description": "",
+  "description": "simpe canvas game",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
